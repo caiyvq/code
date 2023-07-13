@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>TITLE</title>
+</head>
+
+<body>
+    <div id="bar-char" style="width: 200px"></div>
+    <script>
+        const data=[8,10,12,16];
+        const rootElement=document.getElementById("bar-char");
+        for(i=0;i<data.length;i++)
+        {
+            const bar=document.createElement("div");
+            bar.style.background="blue";
+            bar.style.width=data[i]*10+"px";
+            bar.style.height="35px";
+            bar.style.margin="2px";
+            rootElement.appendChild(bar);
+            bar.innerHTML=data[i];
+            bar.style.color="blue";
+            bar.addEventListener("mouseover",function(){
+                bar.style.color="white";
+            })
+            bar.addEventListener("mouseout",function(){
+                bar.style.color="blue";
+            })
+        }
+        rootElement.style.background="green";
+        //rootElement.style.width="200px";
+    </script>
+</body>
+
+</html>
