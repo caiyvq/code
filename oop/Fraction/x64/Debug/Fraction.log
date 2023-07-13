@@ -1,0 +1,11 @@
+﻿  fraction.cpp
+D:\文档\program\oop\Fraction\fraction.cpp(70,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文档\program\oop\Fraction\fraction.cpp(73,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\program\oop\Fraction\fraction.cpp(78,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\文档\program\oop\Fraction\fraction.cpp(79,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\program\oop\Fraction\fraction.cpp(80,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\program\oop\Fraction\fraction.cpp(113): warning C4172: 返回局部变量或临时变量的地址: temp
+D:\文档\program\oop\Fraction\fraction.cpp(124): warning C4172: 返回局部变量或临时变量的地址: temp
+D:\文档\program\oop\Fraction\fraction.cpp(135): warning C4172: 返回局部变量或临时变量的地址: temp
+D:\文档\program\oop\Fraction\fraction.cpp(146): warning C4172: 返回局部变量或临时变量的地址: temp
+  Fraction.vcxproj -> D:\文档\program\oop\Fraction\x64\Debug\Fraction.exe

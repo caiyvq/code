@@ -1,0 +1,2 @@
+D:\文档\program\oop\Adventure\x64\Debug\Adventure.exe
+D:\文档\program\oop\Adventure\Adventure\x64\Debug\Adventure.exe

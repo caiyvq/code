@@ -1,0 +1,7 @@
+stu1	math	100	english	60	long_course	65	music	86	art	70	history	84	unexist_course	-1
+long_name	physics	77	history	100	english	88	music	60	math	70
+stu3	math	38	biology	50	music	100	english	67	history	59
+stu4	biology	96	art	80	music	85	music	50	physics	70	history	68
+stu5	math	-1	english	100	history	101	art	90	biology	69	music	77	physics	87
+stu6	physics	-1	biology	101
+stu7

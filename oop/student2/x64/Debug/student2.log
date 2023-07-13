@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\文档\program\oop\student2\main.cpp(69,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\program\oop\student2\main.cpp(90,90): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\文档\program\oop\student2\main.cpp(117,101): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student2.vcxproj -> D:\文档\program\oop\student2\x64\Debug\student2.exe

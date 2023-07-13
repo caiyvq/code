@@ -1,0 +1,3 @@
+﻿  Students I.cpp
+D:\文档\program\oop\Students I\Students I.cpp(23,2): warning C4091: “static ”: 没有声明变量时忽略“student”的左侧
+  Students I.vcxproj -> D:\文档\program\oop\Students I\x64\Debug\Students I.exe
