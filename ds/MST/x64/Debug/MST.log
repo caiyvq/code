@@ -1,0 +1,4 @@
+﻿  MST(by edge).cpp
+D:\文档\program\ds\MST\MST(by edge).cpp(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\文档\program\ds\MST\MST(by edge).cpp(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MST.vcxproj -> D:\文档\program\ds\MST\x64\Debug\MST.exe

@@ -1,0 +1,4 @@
+﻿  Maximum Subsequence Sum.cpp
+D:\文档\program\ds\Maximum Subsequence Sum\Maximum Subsequence Sum.cpp(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\文档\program\ds\Maximum Subsequence Sum\Maximum Subsequence Sum.cpp(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Maximum Subsequence Sum.vcxproj -> D:\文档\program\ds\Maximum Subsequence Sum\x64\Debug\Maximum Subsequence Sum.exe
